@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "description": "本地图书馆站点",
+  "engines": {"node": "22.15.0"},
   "scripts": {
     "start": "node ./bin/www",
     "devstart": "nodemon ./bin/www"
